@@ -2,7 +2,7 @@
 
 This Automation Project is developed using Cucumber,Java,Maven and Selenium. Junit is being used to Asssertions.
 
-##Features
+## Features
 Framework supports multiple browsers( Chrome and Edge )
 Users can update ConstantVariables.java file in order to update the running browser
 
